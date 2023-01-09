@@ -1,0 +1,4 @@
+cd _a/YifanZhang2008.github.io/
+git add -A
+git commit -m "..."
+git push
